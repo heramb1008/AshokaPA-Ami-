@@ -2,7 +2,7 @@
 Personal Assistant using rasberry pi
 
 
-Contributing
+# Contributing
 
 Only members (Vivek, Heramb, Harsh, Asish) can contribute here.You can always fork the reporitories in this orgranization to resolve issues or make new contribution and submit pull request to merge it.
 
